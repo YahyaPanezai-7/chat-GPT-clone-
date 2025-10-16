@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Conversational AI",
+  "description": "A conversational AI model similar to ChatGPT, capable of holding multi-turn conversations with context awareness. It features a user-friendly chat interface for real-time, human-like text responses.",
+  "requestFramePermissions": []
+}
